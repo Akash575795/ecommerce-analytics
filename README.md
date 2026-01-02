@@ -1,6 +1,8 @@
 # ecommerce-analytics
 End-to-end e-commerce analytics project using Python, SQL, and Power BI
 
+### NOTE : Unable to upload data files due to large size.
+
 # E-commerce Analytics Dashboard (India)
 
 ## 📌 Project Overview
